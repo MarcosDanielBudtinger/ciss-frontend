@@ -1,4 +1,4 @@
-# Projeto para fins de teste para CISS
+# Projeto para fins de teste
 
 Esse projeto foi criado com ReactJs
 
