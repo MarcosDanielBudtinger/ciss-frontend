@@ -9,17 +9,16 @@ Esse projeto foi criado com ReactJs
 
 ## Objetivo do projeto
 
--Consumir a API de CRUD de funcionários criada em Java.
--Listar
--Editar
--Excluir
--Pesquisar
+- Consumir a API de CRUD de funcionários criada em Java.
+- Listar
+- Editar
+- Excluir
+- Pesquisar
 
-### `yarn start` ou `npm start`
 
-Para rodar a aplicação digita o comando acima.
-Abra [http://localhost:3000](http://localhost:3000) para visualiar no browser.
+### Depois de fazer clone do projeto entre na pasta do mesmo e digite `npm install`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### Após as dependências instaladas execute `yarn start` ou `npm start`
+
+-Abra [http://localhost:3000](http://localhost:3000) para visualiar no browser.
 
